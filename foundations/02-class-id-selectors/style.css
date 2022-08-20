@@ -1,0 +1,18 @@
+p {
+    background: #ffc0cb;
+}
+
+#el2 {
+    font-size: 36px;
+    color: blue;
+}
+
+#el2 + p {
+    font-size: 24px;
+}
+
+#el4 {
+    background: lightgreen;
+    font-size: 24px;
+    font-weight: 800;
+}
